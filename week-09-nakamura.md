@@ -1,0 +1,5 @@
+To be able to understand someone's mental structure, we have to read the process and details of their work. Many creators and developers have a goal that they want to achieve when creating a piece. Sometimes, they do a lot of research about what they are creating to make sense of what they are making. In order to understand the mental structure of the developer, the user have to operate and navigate the application by going through the functionalities of the application.
+
+This idea applies to interactive media, such as Gmail, Tiktok, and Instagram. For example, users are able to understand these applications because of the functions and different purposes that the application serves. Moreover, the layout and the interface of the application helps the user to engage more with the application.
+
+ Tiktok serves a lot of purposes, such as it helps users create videos and entertain themselves. The mental model of the application helps users to combine a lot of different sources and achieve and interesting result. For example, a user can use videos or sounds from different areas and attach them to the Tiktok application.  
