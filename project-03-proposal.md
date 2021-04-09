@@ -1,0 +1,1 @@
+For my Linear Narrative project, I would like to show some process to producing music. I would use some terms to explain the process and guide the reader to practice. Moreover, I will add a link to a software which can be downloaded to be able to experience the process.
